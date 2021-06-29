@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cba4df0-2a2a-41bb-9f5e-0080c9c9e6dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1thxaJSyGCEA6R2rPCmmbUbIHoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\umasankar.panigrahy\PycharmProjects\POM\Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Excel">
+    <configuration name="Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/Excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DDT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DDT/TestCases.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Webdriver_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/Webdriver_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dropdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/dropdown.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getText" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="POM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/getText.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Excel" />
+        <item itemvalue="Python.TestCases" />
+        <item itemvalue="Python.dropdown" />
+        <item itemvalue="Python.getText" />
+        <item itemvalue="Python.Webdriver_manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cba4df0-2a2a-41bb-9f5e-0080c9c9e6dd" name="Default Changelist" comment="" />
+      <created>1623235184647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623235184647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623247408038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="403" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1623247408038" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1624858938456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1624858938456" />
+    <state width="1259" height="91" key="GridCell.Tab.0.bottom" timestamp="1624883557499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1624515083955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1624515083955" />
+    <state width="1259" height="91" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624883557499" />
+    <state width="1259" height="91" key="GridCell.Tab.0.center" timestamp="1624883557499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1624515083955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1624515083955" />
+    <state width="1259" height="91" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624883557499" />
+    <state width="1259" height="91" key="GridCell.Tab.0.left" timestamp="1624883557499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1624515083955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1624515083955" />
+    <state width="1259" height="91" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624883557499" />
+    <state width="1259" height="91" key="GridCell.Tab.0.right" timestamp="1624883557499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1624515083955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="132" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.680@0.0.1280.680" timestamp="1624515083955" />
+    <state width="1259" height="91" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624883557499" />
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom" timestamp="1624553368791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624553368791" />
+    <state width="1259" height="204" key="GridCell.Tab.1.center" timestamp="1624553368791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1624553368791" />
+    <state width="1259" height="204" key="GridCell.Tab.1.left" timestamp="1624553368791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1624553368791" />
+    <state width="1259" height="204" key="GridCell.Tab.1.right" timestamp="1624553368791">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1624553368791" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1624550070053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1624550070053" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1623646012234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1623646012234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium/dropdown.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
